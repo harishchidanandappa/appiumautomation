@@ -15,7 +15,7 @@
 ## Features (Important)
 - Tests for Native Android APK mobile application are written in Java using Appium.
   
-  for more details on te environment setup and requiremnts please refer the basicautomation project()
+  for more details on te environment setup and requiremnts please refer the basicautomation project(https://github.com/harishchidanandappa/basicautomationappium)
 
 
 
